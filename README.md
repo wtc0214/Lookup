@@ -1,6 +1,6 @@
 # LookupNet小目标检测模块
 
-基于Deep Lookup Network论文思想，专门针对小目标检测任务优化的YOLOv11模块。
+基于Deep Lookup Network论文思想，专门针对小目标检测任务优化的模块。
 
 ## 🚀 特性
 
